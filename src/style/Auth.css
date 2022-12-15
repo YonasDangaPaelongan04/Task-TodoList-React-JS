@@ -1,0 +1,36 @@
+.box {
+  background-color: #fff;
+  width: 25%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding-bottom: 0.7rem;
+}
+
+.head {
+  text-align: center;
+  margin-bottom: 0.4rem;
+}
+
+.btn-grup {
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+.paragraph {
+  text-align: center;
+  margin-top: 0.5rem;
+  font-size: 14px;
+}
+
+.textBtn {
+  color: #57ea4f;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+  margin: 0.4rem 0;
+}
